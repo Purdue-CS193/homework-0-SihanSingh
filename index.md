@@ -1,3 +1,8 @@
+# Sihan Singh's First CS193 Homework
+
+- I love the TA's that teach CS193 because they are really nice
+- I love getting advice from the CS193 lectures, for example resume advice
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
